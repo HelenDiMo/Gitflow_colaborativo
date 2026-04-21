@@ -10,3 +10,16 @@ def div(x, y):
     return x / y
 result = div(a, b)
 print(result)
+
+
+
+# Coder B - resta de 2 variables
+a = 2
+b = 3
+def subtract(x, y):
+    return x - y
+result = subtract(a, b)
+print("The result of subtracting", a, "and", b, "is:", result) # EN
+
+
+
