@@ -1,4 +1,4 @@
-# Coder A - suma de 2 variables. crear conflicto
+# Coder A - suma de 2 variables
 a = 2
 b = 3
 def add(x, y):
