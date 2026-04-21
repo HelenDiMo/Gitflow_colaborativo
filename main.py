@@ -6,6 +6,10 @@ def add(x, y):
 result = add(a, b)
 print("The result of adding", a, "and", b, "is:", result) # EN
 
+def div(x, y):
+    return x / y
+result = div(a, b)
+print(result)
 
 
 
